@@ -50,10 +50,10 @@ $active_record = TRUE;
 
 $db['default']['hostname']='localhost';
 $db['default']['username']='root';
-$db['default']['password']='root';
+$db['default']['password']='';
 $db['default']['database']='x6cms';
 $db['default']['dbdriver']='mysql';
-$db['default']['dbprefix']='lee_';
+$db['default']['dbprefix']='az_';
 $db['default']['pconnect']=FALSE;
 $db['default']['db_debug']=TRUE;
 $db['default']['cache_on']=FALSE;

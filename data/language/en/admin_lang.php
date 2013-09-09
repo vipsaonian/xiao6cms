@@ -275,6 +275,7 @@ $lang['model_hr'] = 'Hr';
 $lang['model_down'] = 'Download';
 $lang['model_page'] = 'Single page';
 $lang['model_guestbook'] = 'Guestbook';
+$lang['model_shopclass'] = 'Shopclass';
 
 /*category*/
 $lang['category_name'] = 'Name';

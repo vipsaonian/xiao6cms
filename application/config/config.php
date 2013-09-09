@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://demo.x6cms.com/';
+$config['base_url']	= 'http://localhost/0358la/';
 
 /*
 |--------------------------------------------------------------------------
@@ -258,7 +258,7 @@ $config['sess_expiration']		= 86400;
 $config['sess_expire_on_close']	= TRUE;
 $config['sess_encrypt_cookie']	= FALSE;
 $config['sess_use_database']	= TRUE;
-$config['sess_table_name']		= 'lee_sessions';
+$config['sess_table_name']		= 'az_sessions';
 $config['sess_match_ip']		= FALSE;
 $config['sess_match_useragent']	= FALSE;
 $config['sess_time_to_update']	= 300;

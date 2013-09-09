@@ -1,0 +1,1 @@
+INSERT INTO az_purview(parent,class,method,listorder,`status`) VALUES (5,'add,edit,del,order',10,1);

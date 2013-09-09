@@ -68,6 +68,7 @@ $lang['model_hr'] = '招聘';
 $lang['model_down'] = '下载';
 $lang['model_page'] = '单页';
 $lang['model_guestbook'] = '留言';
+$lang['model_shopclass'] = '商家管理';
 
 /*validform*/
 $lang['valid_onlyform'] = '只支持form验证！';

@@ -34,6 +34,7 @@ $lang['tag'] = '标签';
 $lang['tagtip'] = '以逗号来分割关键词';
 $lang['isbold'] = '加粗';
 $lang['recommend'] = '推荐位';
+$lang['shopclass'] = '商家分类';
 $lang['tpl'] = '模板文件';
 $lang['price'] = '价格';
 $lang['color'] = '颜色';
@@ -173,6 +174,8 @@ $lang['func_sitemap'] = '网站地图';
 $lang['func_keywords'] = '网站关键词';
 $lang['func_tags'] = '聚合标签';
 $lang['func_model'] = '模型管理';
+$lang['func_shopclass'] = '商家分类管理';
+$lang['func_quan'] = '商圈管理';
 $lang['func_article'] = '文章模型';
 $lang['func_product'] = '产品模型';
 $lang['func_down'] = '下载模型';
@@ -275,6 +278,7 @@ $lang['model_hr'] = '招聘';
 $lang['model_down'] = '下载';
 $lang['model_page'] = '单页';
 $lang['model_guestbook'] = '留言';
+$lang['model_shopclass'] = '商家管理';
 
 /*category*/
 $lang['category_name'] = '栏目名称';
